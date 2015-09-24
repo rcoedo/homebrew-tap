@@ -3,9 +3,9 @@ require "language/go"
 class Apcom < Formula
   desc "Apocalyptic commit messages for the desperate developer"
   homepage "https://github.com/rcoedo/apcom"
-  url "https://github.com/rcoedo/apcom/archive/v0.1.1.tar.gz"
-  sha256 "c129ca40ba5f04c860a7b6802e91c8aea792109bb806d49196c15b5011a594b6"
-  version "v0.1.1"
+  url "https://github.com/rcoedo/apcom/archive/v0.1.2.tar.gz"
+  sha256 "4d777ee527eb2a33885fd9f45d5bbc40bf83ad62e88862f005ab1af4ecdf2ea5"
+  version "v0.1.2"
   head "https://github.com/rcoedo/apcom.git"
 
   depends_on "go" => :build
